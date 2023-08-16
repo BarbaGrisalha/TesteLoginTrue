@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fceac20e-b6de-4e15-bb39-d8f6fb55fad1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumTeste03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumLoginTest.java" afterDir="false" />
+    <list default="true" id="fceac20e-b6de-4e15-bb39-d8f6fb55fad1" name="Changes" comment="Initial test of page test &quot;saucedemo.com&quot; with the correct login.">
+      <change afterPath="$PROJECT_DIR$/src/SeleniumLoginTestFalse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +33,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SeleniumLoginTestFalse">
+    <configuration name="SeleniumLoginTestFalse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumLoginTestFalse" />
+      <module name="SeleniumTeste03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SeleniumLoginTestTrue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SeleniumLoginTestTrue" />
       <module name="SeleniumTeste03" />
@@ -53,6 +56,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeleniumLoginTestFalse" />
         <item itemvalue="Application.SeleniumLoginTestTrue" />
       </list>
     </recent_temporary>
@@ -66,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692128116899</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial test of page test &quot;saucedemo.com&quot; with the correct login.">
+      <created>1692179946193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692179946193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +90,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial test of page test &quot;saucedemo.com&quot; with the correct login." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial test of page test &quot;saucedemo.com&quot; with the correct login." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SeleniumLoginTestFalse.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
